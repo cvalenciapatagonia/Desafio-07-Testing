@@ -1,0 +1,16 @@
+{
+  "name": "desafio_07_testing",
+  "version": "1.0.0",
+  "description": "Desafio cafeteria Nanacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "Cristian Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.3",
+    "supertest": "^6.2.4"
+  }
+}
